@@ -1,0 +1,101 @@
+{
+    "id": 55,
+    "user": {
+        "id": 2,
+        "userName": "user1",
+        "password": "$2a$10$faTfask0AcHF6AzDdBqCrujY6BvcThZYOTJ4Js5m4lmDdVz4MkkTK",
+        "firstName": "user1",
+        "lastName": "user1",
+        "email": "user1@your.com",
+        "phoneNumber": "1234567890",
+        "role": "USER",
+        "created": [
+            2020,
+            8,
+            28,
+            22,
+            35,
+            35
+        ],
+        "updated": [
+            2020,
+            8,
+            28,
+            22,
+            35,
+            35
+        ]
+    },
+    "product": {
+        "productId": 16,
+        "name": "Himmlisch ST381 Magnetic Sun Shade For Maruti Alto",
+        "category": "Automotive",
+        "price": 6999.0,
+        "description": "Himmlisch ST381 Magnetic Sun Shade For Maruti Alto (Side Window) Price: Rs. 1 899 Beat the heat this summer and feel like a VIP with Himmlisch Car Window Magnetic Sunshades. These magnetic sunshades create a mesh layer to stops the heat. Magnet border gets easily stick to your car window door edges (No need of Suction cups) Features: Block UV Rays Keeps Car Cool Easy to install and remove Durable and Exact Fit Provides Complete privacy Resists Heat Mesh Type Sunshade Package Contents: 1 x Set Of 4 Magnetic Sunshades Specifications of Himmlisch ST381 Magnetic Sun Shade For Maruti Alto (Side Window) General Brand Himmlisch Model Number ST381 Magnetic Placement Position Side Window Color Black Dimensions Weight 4000 g Depth 1.1 cm In the Box Sales Package 4 Sun Shade Pack of 4",
+        "manufacturer": "Himmlisch",
+        "availableItems": 25,
+        "imageUrl": "http://img5a.flixcart.com/image/sun-shade/5/2/y/pp48-car-magnetic-himmlisch-1100x1100-imaegujvyzrc8eh6.jpeg",
+        "created": [
+            2020,
+            8,
+            28,
+            22,
+            35,
+            36
+        ],
+        "updated": [
+            2020,
+            8,
+            28,
+            22,
+            35,
+            36
+        ]
+    },
+    "shippingAddress": {
+        "id": 50,
+        "name": "user1 user1",
+        "phone": "1234567890",
+        "street": "user1 street",
+        "landmark": "user1 landmark",
+        "city": "user1 city",
+        "state": "user1 state",
+        "zipcode": "123456",
+        "user": {
+            "id": 2,
+            "userName": "user1",
+            "password": "$2a$10$faTfask0AcHF6AzDdBqCrujY6BvcThZYOTJ4Js5m4lmDdVz4MkkTK",
+            "firstName": "user1",
+            "lastName": "user1",
+            "email": "user1@your.com",
+            "phoneNumber": "1234567890",
+            "role": "USER",
+            "created": [
+                2020,
+                8,
+                28,
+                22,
+                35,
+                35
+            ],
+            "updated": [
+                2020,
+                8,
+                28,
+                22,
+                35,
+                35
+            ]
+        }
+    },
+    "amount": 6999.0,
+    "orderDate": [
+        2020,
+        8,
+        28,
+        23,
+        4,
+        18,
+        293434500
+    ]
+}
