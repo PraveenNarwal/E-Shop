@@ -8,6 +8,7 @@ const order = require("./routes/order");
 const address = require("./routes/address");
 const product = require("./routes/product");
 const user = require("./routes/user");
+// const MONGO_URI = 'mongodb+srv://praveen:praveen1234@cluster0.cmrmq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 
 app.use(
   cors({
