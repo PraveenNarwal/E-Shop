@@ -182,7 +182,7 @@ export default function PrimarySearchAppBar() {
             <ShoppingCartIcon />
           </IconButton>
           <Typography className={classes.title} variant="h6" noWrap>
-            upGrad E-Shop
+             E-Shop
           </Typography>
           <div style={{ marginLeft: "30%" }} className={classes.search}>
             <div className={classes.searchIcon}>
